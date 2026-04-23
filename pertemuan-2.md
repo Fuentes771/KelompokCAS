@@ -78,3 +78,72 @@ Assemblr Edu dapat digunakan pada perangkat dengan spesifikasi rendah hingga men
 Toolkit AR seperti Unity membutuhkan perangkat dengan spesifikasi lebih tinggi karena pengolahan grafis dan rendering 3D yang lebih kompleks.
 
 ---
+
+## 📊 4. Tabel Perbandingan
+
+| Aspek                  | Assemblr Edu            | Toolkit AR (Unity, dll)        |
+|------------------------|------------------------|--------------------------------|
+| Kemudahan              | Sangat mudah           | Sulit (butuh coding)           |
+| Fleksibilitas          | Terbatas               | Sangat tinggi                  |
+| Fitur                  | Dasar                  | Sangat lengkap                 |
+| Pengguna               | Pelajar, guru          | Developer profesional          |
+| Deployment             | Mudah (link/QR)        | Kompleks (build app)           |
+| Kebutuhan perangkat    | Rendah                 | Tinggi                         |
+
+---
+
+## 📊 5. Kelebihan dan Kekurangan
+
+### ✅ Assemblr Edu
+**Kelebihan:**
+- Mudah digunakan tanpa coding  
+- Cocok untuk pendidikan  
+- Cepat dalam pembuatan konten  
+- User-friendly  
+
+**Kekurangan:**
+- Fitur terbatas  
+- Kurang fleksibel  
+- Tidak cocok untuk aplikasi kompleks  
+
+---
+
+### ✅ Toolkit AR (Unity, Vuforia, ARCore, ARKit)
+**Kelebihan:**
+- Fleksibilitas tinggi  
+- Mendukung aplikasi kompleks  
+- Fitur lengkap dan canggih  
+- Bisa integrasi AI dan teknologi terbaru  
+
+**Kekurangan:**
+- Membutuhkan skill programming  
+- Kurva belajar tinggi  
+- Waktu pengembangan lebih lama  
+
+---
+
+## 📌 6. Contoh Penggunaan
+
+### 🔹 Assemblr Edu
+- Media pembelajaran interaktif  
+- Presentasi berbasis AR  
+- Proyek tugas sekolah  
+
+### 🔹 Toolkit AR Lain
+- Game berbasis AR  
+- Aplikasi simulasi industri  
+- AR navigation  
+- Aplikasi berbasis AI  
+
+---
+
+## 📌 7. Kesimpulan
+Assemblr Edu lebih cocok digunakan untuk kebutuhan **pembelajaran dan pembuatan AR sederhana** karena kemudahan penggunaannya.
+
+Sementara itu, toolkit seperti Unity, Vuforia, ARCore, dan ARKit lebih cocok untuk **pengembangan aplikasi AR profesional** yang membutuhkan fleksibilitas tinggi dan fitur lanjutan.
+
+**Kesimpulan akhir:**
+- Pemula / pendidikan → Assemblr Edu  
+- Profesional / developer → Toolkit AR  
+
+---
