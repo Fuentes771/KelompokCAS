@@ -34,6 +34,7 @@ Setiap resume disusun menggunakan bahasa sendiri dengan pendekatan deskriptif da
 Berikut adalah daftar resume berdasarkan pertemuan:
 
 1. [Pertemuan 1 - 9 April 2026](pertemuan-1.md)
+2. [Pertemuan 2 - 16 April 2026](pertemuan-2.md)
 
 ---
 
